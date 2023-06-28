@@ -16,8 +16,8 @@ l = [1,2,3,4,5]
 # ::2 = [0,2,4] = [1,3,5]
 # print(l[::2])
 
-#::-1 = [4,3,2,1,0] reverse indexing
-#       [5,4,3,2,1] actual values 
+#::-1 = [-5,-4,-3,-2,-1] negative index
+#       [5 ,4 ,3 ,2 ,1 ] actual values 
 
 
 

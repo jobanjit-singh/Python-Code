@@ -6,4 +6,6 @@
 # s[starting point:stopping point:step Size]
 
 s = "python"
-# print(s[-2:-1:-1])
+# print(s[-2:-1:-1]) 
+
+# print(s[-1:-2])
