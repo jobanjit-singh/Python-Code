@@ -20,7 +20,16 @@ while(i < j): #2 < 2
 print(StrList)
 #['o','l','l','e','h']
 
-s = ''.join(StrList)
+# "o-l-l-e-h"
+
+# s = ''.join(StrList)
+
+s = "" # s = "olleh"
+#                            i
+#          ['o','l','l','e','h']
+for i in StrList:
+    s = s+i # "olle" = "olle"+'h'
+print(type(StrList[0]))
 print(type(s))
 print(s)
 
