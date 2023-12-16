@@ -40,6 +40,7 @@
 a = "admin"
 name = "Hello"
 
+
 # print(a == "admin" and name == "Hello") #True
 # print(a == "admin" or name == "hello") # True
 
